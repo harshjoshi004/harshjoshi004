@@ -68,11 +68,8 @@ BLE + Android + ExpressJs for hyper-local personalized ads.
 * 🧠 **Farm Assistant Chatbot** using GROQ API
 * 📊 **Analytics Dashboard** and intelligent anomaly detection
 * 🌱 **Crop Recommendation System**
-
-> 🏆 **Runner-Up** at HACKCrux Hackathon 2024
-
-*[Watch Demo](https://youtu.be/s2302dVRVlo)
-*[Code](https://github.com/SiddharthJiyani/KrishiDhaara)
+* [Watch Demo](https://youtu.be/s2302dVRVlo)
+* [Code](https://github.com/SiddharthJiyani/KrishiDhaara)
 
 ---
 

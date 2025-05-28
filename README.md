@@ -19,9 +19,9 @@
 ## 🧠 About Me
 
 * 🎓 I'm a B.Tech CSE student at **LNMIIT Jaipur**, class of 2026.
-* 📱 I specialize in crafting immersive **Android experiences** with Jetpack Compose & Firebase.
-* 🎮 Outside tech, I'm drawn to storytelling and filmmaking, where code meets soul.
-* 🌱 Currently exploring: **Clean Architecture**, **Realtime systems**, and **Composable UI** magic.
+* 🌱 Diving deep into Software Architecture, Design Patterns and Principles.
+* 📱 Specialized in crafting immersive **Android experiences** with Jetpack Compose.
+* 🎮 Outside tech, I'm drawn to storytelling and filmmaking
 
 ---
 

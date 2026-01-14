@@ -5,23 +5,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A000&width=435&lines=Building+apps+that+matter...;Coding+with+intention+%26+design;Android+dev+%7C+IoT+enthusiast" alt="Typing SVG" />
 </p>
 
----
-
 ## 📊 GitHub Stats
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app?user=harshjoshi004&theme=tokyonight" 
-    height="200"
-  />
-
----
+<img
+  src="https://github-readme-streak-stats-eight.vercel.app?user=harshjoshi004&theme=tokyonight" 
+  height="200"
+/>
 
 ## 🧠 About Me
 
 * 🎓 I'm a B.Tech CSE student at **LNMIIT Jaipur**.
 * 🌱 Diving deep into Software Architecture, Design Patterns and Principles.
 * 📱 Specialized in crafting immersive **Android experiences** with Jetpack Compose.
-
----
 
 ## 🔧 Tech Stack & Tools
 
@@ -36,25 +30,34 @@
 
 ---
 
-## 📈 Proximity-Based Ad Delivery System
-
-BLE + Android + ExpressJs for hyper-local personalized ads.
-
-* 🔹 Gemini API powered personalization
-* 📶 BLE advertising via Raspberry Pi
-* 🌍 Built full-stack: Pi + App + Backend
-
-* [Android App Code](https://github.com/harshjoshi004/ctiot_android_app)
-* [Backend Code](https://github.com/harshjoshi004/ctiot_backend)
-* [Watch Demo](https://www.loom.com/share/cebae960d06542f287232f510a05924a?sid=356737e1-6886-4633-8e95-6f983de6dbb7)
+## 🏠 Notable Projects
 
 ---
 
-## 🌿 KrishiDhaara: Smart Agriculture Platform
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/88c2efbe-25e7-4ca3-92dd-28731b91ad0b" />
 
-<p>
-  <img src="https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube" />
-</p>
+### 🚀 Artha Android App - Multi-Agent Finance Client
+
+Multi-Agent Financial Management and Analysis.
+
+* Real-time dashboard & investment tracking
+* AI multi-agent financial chat interface
+* Modern Material You UI with dark/light themes
+* Interactive charts with live Firebase-backed data
+* [Code](https://github.com/harshjoshi004/ArthaAndroidApp)
+
+---
+
+<a href="https://www.youtube.com/watch?v=TsHQYbeS6SQ" target="_blank">
+  <img
+    src="https://github.com/user-attachments/assets/bffc6f71-05a7-414d-8c7f-56b3b450022d"
+    alt="Agro-Smart | SIH 2025 Prototype"
+    width="755"
+    height="405"
+  />
+</a>
+
+### 🌿 KrishiDhaara: Smart Agriculture Platform
 
 **KrishiDhaara** is a smart agriculture platform built during an inter-college hackathon, combining AI, IoT, and data analytics to empower farmers. It features:
 
@@ -70,7 +73,7 @@ BLE + Android + ExpressJs for hyper-local personalized ads.
 
 ---
 
-## 🏠 Other Notable Projects
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a576c556-36d1-48c8-8dfa-6bf220172dfc" />
 
 ### 🙏 Krishnamaya
 
@@ -83,15 +86,19 @@ Spiritual social media platform with posts, stories, chanting counter, and discu
 * [APK File](https://drive.google.com/file/d/1-E61M3-bC8Iys9zo-WWiERjjsXC9NnVj/view)
 * [Watch Demo](https://drive.google.com/file/d/1nD_MYagIg92nITRD9lGbw7xcMU-s8Nfv/view)
 
-### 💬 Talkio
+---
 
-Anime-themed chat app with real-time messaging and broadcast.
+### 📈 Proximity-Based Ad Delivery System
 
-* Java + XML + Firebase
-* Constraint Layouts
-* [Code](https://github.com/harshjoshi004/Talkio-ChattingApp)
-* [APK File](https://drive.google.com/file/d/1gzKcFe3eHOGu1BLrXNCbrO3MI9aj4lWc/view?usp=sharing)
-* [Watch Demo](https://www.loom.com/share/8c84848768fe4aa19a4d8841da7948c9?sid=f7e4804d-04bb-4e52-9a3a-31edb1c23596)
+BLE + Android + ExpressJs for hyper-local personalized ads.
+
+* 🔹 Gemini API powered personalization
+* 📶 BLE advertising via Raspberry Pi
+* 🌍 Built full-stack: Pi + App + Backend
+
+* [Android App Code](https://github.com/harshjoshi004/ctiot_android_app)
+* [Backend Code](https://github.com/harshjoshi004/ctiot_backend)
+* [Watch Demo](https://www.loom.com/share/cebae960d06542f287232f510a05924a?sid=356737e1-6886-4633-8e95-6f983de6dbb7)
 
 ---
 

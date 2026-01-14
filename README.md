@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#F7A000;">Hey there! I'm <span style="color:#FFA500;">Harsh</span> 👋</h1>
-<h3 align="center" style="color:#00BFA6;">Creative Technologist | Android Specialist | Full-Stack Innovator</h3>
+<h3 align="center" style="color:#00BFA6;">Android Specialist | Full-Stack Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7A000&width=435&lines=Building+apps+that+matter...;Coding+with+intention+%26+design;Android+dev+%7C+IoT+enthusiast+%7C+Creator+forever" alt="Typing SVG" />
@@ -18,10 +18,9 @@
 
 ## 🧠 About Me
 
-* 🎓 I'm a B.Tech CSE student at **LNMIIT Jaipur**, class of 2026.
+* 🎓 I'm a B.Tech CSE student at **LNMIIT Jaipur**.
 * 🌱 Diving deep into Software Architecture, Design Patterns and Principles.
 * 📱 Specialized in crafting immersive **Android experiences** with Jetpack Compose.
-* 🎮 Outside tech, I'm drawn to storytelling and filmmaking
 
 ---
 
